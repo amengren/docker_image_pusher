@@ -3,3 +3,9 @@ kasmweb/nginx:1.25.3
 xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 19970688/nastools-bt:latest
+superng6/qbittorrentee:latest
+linuxserver/jackett:latest
+nyanmisaka/jellyfin:latest
+allanpk716/chinesesubfinder:latest
+laoyutang/clash-and-dashboard:latest
+gitea/gitea:latest
